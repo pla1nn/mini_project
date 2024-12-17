@@ -1,11 +1,11 @@
 {
-  "name": "movies",
+  "name": "mini_project",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/movies/",
+    "build": "vite build --base=/mini_project/",
     "preview": "vite preview",
     "server": "json-server db.json"
   },
